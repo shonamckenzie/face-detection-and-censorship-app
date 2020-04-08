@@ -1,4 +1,5 @@
-# face-detection-and-censorship-app
+# Face detection and censorship app
+
 This app is written in Javascript utilising canvas, FaceDetector API, and parcel bundler.  
 The app takes in the stream from a users webcam, the FaceDetector api detects any faces within the stream and a pixelated box is then placed over the detected faces.
 
